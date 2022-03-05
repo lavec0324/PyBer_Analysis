@@ -42,9 +42,9 @@ This can be seen in the below tables and graph.
 
 Per the analysis, we can make three business recommendations to reduce disparities among the city types:
 
-  (1) Increase the number of drivers in the rural areas
-  (2) Reduce the price of rides in the rural area
-  (3) Increase the price of rides in the urban areas
+  1. Increase the number of drivers in the rural areas
+  2. Reduce the price of rides in the rural area
+  3. Increase the price of rides in the urban areas
   
 Items 1 & 2 would hopefully increase the demand for these types of services.  Item #3 would decrease the demand, bring the prices up and flatten out the demand a bit more.
 That demand decrease could be used to increase the demand in the rural area.
