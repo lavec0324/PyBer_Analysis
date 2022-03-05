@@ -3,7 +3,9 @@ Module 5
 
 ## Overview of the Analysis
 
-Purpose of this project was to look at ride share data across several city and city types and provide different views through tabes as well as different charts.  Initially two sets of data were used which comprised of city data and individual ride data in that city for a specified period.  Using the common index of city we were able to combine and further analyze the merged dataset.  A sample of that merged data can be seen here:
+Purpose of this project was to look at ride share data across several city and city types and provide different views through tabes as well as different charts.  Initially two
+sets of data were used which comprised of city data and individual ride data in that city for a specified period.  Using the common index of city we were able to combine and
+further analyze the merged dataset.  A sample of that merged data can be seen here:
 
 ![](https://github.com/lavec0324/PyBer_Analysis/blob/main/analysis/merged_data.PNGG)
 
