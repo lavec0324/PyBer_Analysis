@@ -22,11 +22,11 @@ This analysis could be used to determine what types of areas see more rides, the
 
 
 
-### Summary By Type Table
+##### Summary By Type Table
 
 ![](https://github.com/lavec0324/PyBer_Analysis/blob/main/analysis/summary_by_type.PNG)
 
-### Fare Summary for January 2019 (Jan-Apr)
+##### Fare Summary for January 2019 (Jan-Apr)
 
 ![](https://github.com/lavec0324/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
