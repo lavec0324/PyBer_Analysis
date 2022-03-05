@@ -11,7 +11,7 @@ Only three files are necessary for this analysis:
 
    * [PyBer_Challenge.ipynb](https://github.com/lavec0324/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb) - Jupyter Notbook created for analysis
    * [city_data.csv](https://github.com/lavec0324/PyBer_Analysis/blob/main/Resources/city_data.csv) - City Data
-   * [ride_data.csv](https://github.com/lavec0324/PyBer_Analysis/blob/main/Resources/city_data.csv) - Ride Data
+   * [ride_data.csv](https://github.com/lavec0324/PyBer_Analysis/blob/main/Resources/ride_data.csv) - Ride Data
 
 This analysis could be used to determine what types of areas see more rides, the average cost of those rides, and the impact the time of the year has on those results.
 
