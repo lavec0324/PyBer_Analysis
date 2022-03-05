@@ -19,9 +19,20 @@ This analysis could be used to determine what types of areas see more rides, the
 
 ## Results
 
+
+
+
+Summary By Type Table
+![](https://github.com/lavec0324/PyBer_Analysis/blob/main/analysis/summary_by_type.PNG)
+
+Fare Summary for January 2019 (Jan-Apr)
+![](https://github.com/lavec0324/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
+
+
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
-Total rode
+
 
 
 ## Summary
